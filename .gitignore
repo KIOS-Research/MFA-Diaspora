@@ -3,3 +3,4 @@ __pycache__
 *.py
 requirements.txt
 *.zip
+*.md
