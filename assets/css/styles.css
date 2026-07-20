@@ -48,7 +48,7 @@ body {
 }
 body.menu-open { overflow: hidden; }
 a { color: inherit; }
-img { max-width: 100%; display: block; }
+img { max-width: 100%; display: block; height: auto; }
 button, input { font: inherit; }
 button { cursor: pointer; }
 
@@ -258,7 +258,7 @@ h1 {
   box-shadow: 0 40px 85px rgba(17,25,60,.30), inset 0 0 0 2px rgba(255,255,255,.10);
   transform: rotate(4deg);
 }
-.phone img { width: 100%; border-radius: 33px; }
+.phone img { width: 100%; height: auto; border-radius: 33px; object-fit: contain; }
 .floating-chip {
   position: absolute;
   z-index: 4;
@@ -382,6 +382,8 @@ h1 {
 }
 .gallery-phone { width: min(66vw, 335px); transform: rotate(-2deg); transition: opacity .25s ease, transform .35s ease; }
 .gallery-phone.changing { opacity: 0; transform: translateY(16px) rotate(-2deg) scale(.98); }
+.gallery-phone img { width: 100%; height: auto; object-fit: contain; }
+
 .gallery-caption {
   position: absolute;
   left: 28px;
@@ -433,8 +435,9 @@ h1 {
 .privacy-buttons .button-ghost { color: #fff; border-color: rgba(255,255,255,.25); }
 
 .logo-story { display: grid; grid-template-columns: .8fr 1.2fr; gap: 50px; align-items: center; }
-.logo-card { border-radius: 36px; padding: 38px; background: #040404; box-shadow: var(--shadow); }
-.logo-card img { max-width: 440px; margin-inline: auto; }
+.logo-card { display: flex; align-items: center; justify-content: center; min-height: 420px; border-radius: 36px; padding: 38px; background: linear-gradient(180deg, var(--paper), var(--surface-2)); border: 1px solid var(--line); box-shadow: var(--shadow); }
+[data-theme="dark"] .logo-card { background: linear-gradient(180deg, color-mix(in srgb, var(--surface-2) 92%, #0f1320), var(--surface)); }
+.logo-card img { width: min(100%, 440px); max-width: 100%; height: auto; object-fit: contain; margin-inline: auto; }
 .story-copy h2 { margin: 0; font-size: clamp(2.2rem, 5vw, 4rem); }
 .story-copy p { color: var(--muted); font-size: 1.06rem; }
 .story-tags { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 24px; }
@@ -458,7 +461,7 @@ h1 {
 .footer-grid { display: grid; grid-template-columns: 1.4fr .6fr .6fr; gap: 60px; }
 .footer-brand { max-width: 520px; }
 .footer-brand p { color: rgba(255,255,255,.65); }
-.footer-logo { width: 82px; height: 82px; border-radius: 50%; background: #000; object-fit: cover; border: 1px solid rgba(216,199,149,.45); }
+.footer-logo { width: 82px; height: 82px; border-radius: 20px; background: transparent; object-fit: contain; border: 1px solid rgba(216,199,149,.45); padding: 6px; }
 .footer-heading { margin: 0 0 14px; font-size: .82rem; letter-spacing: .12em; text-transform: uppercase; color: var(--gold); }
 .footer-links { display: grid; gap: 10px; }
 .footer-links a { text-decoration: none; color: rgba(255,255,255,.76); }
