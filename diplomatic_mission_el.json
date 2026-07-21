@@ -6,6 +6,7 @@
   "countries": [
     {
       "country_name": "Aλβανία",
+      "country_code": "AL",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/alvania/",
       "has_resident_mission": false,
@@ -15,6 +16,7 @@
     },
     {
       "country_name": "Άγιος Μαρίνος",
+      "country_code": "SM",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/agios-marinos/",
       "has_resident_mission": false,
@@ -24,6 +26,7 @@
     },
     {
       "country_name": "Άγιος Μαυρίκιος",
+      "country_code": "MU",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/agios-mayrikios/",
       "has_resident_mission": true,
@@ -58,6 +61,7 @@
     },
     {
       "country_name": "Αίγυπτος",
+      "country_code": "EG",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/araviki-dimokratia-tis-aigyptoy/",
       "has_resident_mission": true,
@@ -144,6 +148,7 @@
     },
     {
       "country_name": "Αγία Λουκία",
+      "country_code": "LC",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/agia-loykia/",
       "has_resident_mission": false,
@@ -153,6 +158,7 @@
     },
     {
       "country_name": "Αντίγκουα και Μπαρμπούντα",
+      "country_code": "AG",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/antigkoya-kai-mparmpoynta/",
       "has_resident_mission": false,
@@ -162,6 +168,7 @@
     },
     {
       "country_name": "Αργεντινή",
+      "country_code": "AR",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/argentini/",
       "has_resident_mission": true,
@@ -224,6 +231,7 @@
     },
     {
       "country_name": "Αρμενία",
+      "country_code": "AM",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/armenia/",
       "has_resident_mission": true,
@@ -261,6 +269,7 @@
     },
     {
       "country_name": "Αυστρία",
+      "country_code": "AT",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/aystria/",
       "has_resident_mission": true,
@@ -299,6 +308,7 @@
     },
     {
       "country_name": "Αυστραλία",
+      "country_code": "AU",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/aystralia/",
       "has_resident_mission": true,
@@ -335,6 +345,7 @@
     },
     {
       "country_name": "Βέλγιο",
+      "country_code": "BE",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/velgio/",
       "has_resident_mission": false,
@@ -344,6 +355,7 @@
     },
     {
       "country_name": "Βιετνάμ",
+      "country_code": "VN",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/vietnam/",
       "has_resident_mission": true,
@@ -377,6 +389,7 @@
     },
     {
       "country_name": "Βολιβία",
+      "country_code": "BO",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/volivia/",
       "has_resident_mission": false,
@@ -386,6 +399,7 @@
     },
     {
       "country_name": "Βοσνία και Ερζεγοβίνη",
+      "country_code": "BA",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/vosnia-kai-erzegovini/",
       "has_resident_mission": true,
@@ -421,6 +435,7 @@
     },
     {
       "country_name": "Βουλγαρία",
+      "country_code": "BG",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/voylgaria/",
       "has_resident_mission": true,
@@ -458,6 +473,7 @@
     },
     {
       "country_name": "Βραζιλία",
+      "country_code": "BR",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/vrazilia/",
       "has_resident_mission": true,
@@ -518,6 +534,7 @@
     },
     {
       "country_name": "Γαλλία",
+      "country_code": "FR",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/gallia/",
       "has_resident_mission": true,
@@ -603,6 +620,7 @@
     },
     {
       "country_name": "Γερμανία",
+      "country_code": "DE",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/germania/",
       "has_resident_mission": true,
@@ -752,6 +770,7 @@
     },
     {
       "country_name": "Γεωργία",
+      "country_code": "GE",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/georgia/",
       "has_resident_mission": false,
@@ -761,6 +780,7 @@
     },
     {
       "country_name": "Γκάμπια",
+      "country_code": "GM",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/gkampia/",
       "has_resident_mission": true,
@@ -795,6 +815,7 @@
     },
     {
       "country_name": "Γκάνα",
+      "country_code": "GH",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/gkana/",
       "has_resident_mission": true,
@@ -828,6 +849,7 @@
     },
     {
       "country_name": "Γουατεμάλα",
+      "country_code": "GT",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/goytemala/",
       "has_resident_mission": false,
@@ -837,6 +859,7 @@
     },
     {
       "country_name": "Γουιάνα",
+      "country_code": "GY",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/goyiana/",
       "has_resident_mission": false,
@@ -846,6 +869,7 @@
     },
     {
       "country_name": "Δανία",
+      "country_code": "DK",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dania/",
       "has_resident_mission": true,
@@ -908,6 +932,7 @@
     },
     {
       "country_name": "Δημοκρατία της Βόρειας Μακεδονίας",
+      "country_code": "MK",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-tis-voreioy-makedonias/",
       "has_resident_mission": false,
@@ -917,6 +942,7 @@
     },
     {
       "country_name": "Δημοκρατία της Λιθουανίας",
+      "country_code": "LT",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-tis-lithoyanias/",
       "has_resident_mission": true,
@@ -950,6 +976,7 @@
     },
     {
       "country_name": "Δομινικανή Δημοκρατία",
+      "country_code": "DO",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/el-dominikani-dimokratia/",
       "has_resident_mission": true,
@@ -983,6 +1010,7 @@
     },
     {
       "country_name": "Ελ Σαλβαδόρ",
+      "country_code": "SV",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/el-salvador/",
       "has_resident_mission": true,
@@ -1017,6 +1045,7 @@
     },
     {
       "country_name": "Ελβετία",
+      "country_code": "CH",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/elvetia/",
       "has_resident_mission": false,
@@ -1026,6 +1055,7 @@
     },
     {
       "country_name": "Ελλάδα",
+      "country_code": "GR",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/ellada/",
       "has_resident_mission": true,
@@ -1089,6 +1119,7 @@
     },
     {
       "country_name": "Εσθονία",
+      "country_code": "EE",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/esthonia/",
       "has_resident_mission": true,
@@ -1122,6 +1153,7 @@
     },
     {
       "country_name": "Εσουατίνι",
+      "country_code": "SZ",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/esoyatini/",
       "has_resident_mission": false,
@@ -1131,6 +1163,7 @@
     },
     {
       "country_name": "Ευρωπαϊκή Ένωση (Βρυξέλλες)",
+      "country_code": null,
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/monimi-antiprosopeia-tis-kypriakis-dimokratias-stin-eyropaiki-enosi-vryxelles/",
       "has_resident_mission": true,
@@ -1169,6 +1202,7 @@
     },
     {
       "country_name": "Ζάμπια",
+      "country_code": "ZM",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/zampia/",
       "has_resident_mission": true,
@@ -1203,6 +1237,7 @@
     },
     {
       "country_name": "Ζιμπάμπουε",
+      "country_code": "ZW",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/zimpampoye/",
       "has_resident_mission": true,
@@ -1236,6 +1271,7 @@
     },
     {
       "country_name": "Ηνωμένα Έθνη, Βιέννη",
+      "country_code": null,
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/inomena-ethni-vienni/",
       "has_resident_mission": true,
@@ -1274,6 +1310,7 @@
     },
     {
       "country_name": "Ηνωμένα Έθνη, Ρώμη (FAO, WFP, IFAD)",
+      "country_code": null,
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/organismoi-inomenon-ethnon-romi/https-www-gov-cy-mfa-inomena-ethni-romi/",
       "has_resident_mission": true,
@@ -1309,6 +1346,7 @@
     },
     {
       "country_name": "Ηνωμένα Αραβικά Εμιράτα",
+      "country_code": "AE",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/inomena-aravika-emirata/",
       "has_resident_mission": true,
@@ -1347,6 +1385,7 @@
     },
     {
       "country_name": "Ηνωμένες Μεξικανικές Πολιτείες",
+      "country_code": "MX",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/inomenes-mexikanikes-politeies/",
       "has_resident_mission": true,
@@ -1380,6 +1419,7 @@
     },
     {
       "country_name": "Ηνωμένες Πολιτείες Αμερικής",
+      "country_code": "US",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/inomenes-politeies-amerikis/",
       "has_resident_mission": true,
@@ -1609,6 +1649,7 @@
     },
     {
       "country_name": "Ηνωμένο Βασίλειο",
+      "country_code": "GB",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/inomeno-vasileio/",
       "has_resident_mission": true,
@@ -1785,6 +1826,7 @@
     },
     {
       "country_name": "Ιαπωνία",
+      "country_code": "JP",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/iaponia/",
       "has_resident_mission": true,
@@ -1821,6 +1863,7 @@
     },
     {
       "country_name": "Ινδία",
+      "country_code": "IN",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/india/",
       "has_resident_mission": true,
@@ -1907,6 +1950,7 @@
     },
     {
       "country_name": "Ινδονησία",
+      "country_code": "ID",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/indonisia/",
       "has_resident_mission": true,
@@ -1944,6 +1988,7 @@
     },
     {
       "country_name": "Ιορδανία",
+      "country_code": "JO",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/iordania/",
       "has_resident_mission": true,
@@ -1981,6 +2026,7 @@
     },
     {
       "country_name": "Ιράκ",
+      "country_code": "IQ",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/irak/",
       "has_resident_mission": true,
@@ -2014,6 +2060,7 @@
     },
     {
       "country_name": "Ιράν",
+      "country_code": "IR",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/iran/",
       "has_resident_mission": true,
@@ -2050,6 +2097,7 @@
     },
     {
       "country_name": "Ιρλανδία",
+      "country_code": "IE",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/irlandia/",
       "has_resident_mission": true,
@@ -2087,6 +2135,7 @@
     },
     {
       "country_name": "Ισημερινός",
+      "country_code": "EC",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/isimerinos/",
       "has_resident_mission": true,
@@ -2143,6 +2192,7 @@
     },
     {
       "country_name": "Ισλανδία",
+      "country_code": "IS",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/islandia/",
       "has_resident_mission": false,
@@ -2152,6 +2202,7 @@
     },
     {
       "country_name": "Ισπανία",
+      "country_code": "ES",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/ispania/",
       "has_resident_mission": true,
@@ -2306,6 +2357,7 @@
     },
     {
       "country_name": "Ισραήλ",
+      "country_code": "IL",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/israil/",
       "has_resident_mission": true,
@@ -2368,6 +2420,7 @@
     },
     {
       "country_name": "Ιταλία",
+      "country_code": "IT",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/italia/",
       "has_resident_mission": true,
@@ -2589,6 +2642,7 @@
     },
     {
       "country_name": "Κένυα",
+      "country_code": "KE",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-tis-kenyas/",
       "has_resident_mission": true,
@@ -2650,6 +2704,7 @@
     },
     {
       "country_name": "Καζακστάν",
+      "country_code": "KZ",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/kazakstan/",
       "has_resident_mission": true,
@@ -2709,6 +2764,7 @@
     },
     {
       "country_name": "Καμερούν",
+      "country_code": "CM",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-toy-kameroyn/",
       "has_resident_mission": true,
@@ -2743,6 +2799,7 @@
     },
     {
       "country_name": "Καμπότζη",
+      "country_code": "KH",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/kampotia/",
       "has_resident_mission": true,
@@ -2777,6 +2834,7 @@
     },
     {
       "country_name": "Καναδάς",
+      "country_code": "CA",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/kanadas/",
       "has_resident_mission": true,
@@ -2883,6 +2941,7 @@
     },
     {
       "country_name": "Κιργισία",
+      "country_code": "KG",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/kyrgistan/",
       "has_resident_mission": false,
@@ -2892,6 +2951,7 @@
     },
     {
       "country_name": "Κολομβία",
+      "country_code": "CO",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-tis-kolmvias/",
       "has_resident_mission": true,
@@ -2925,6 +2985,7 @@
     },
     {
       "country_name": "Κορέα (Δημοκρατία της Κορέας)",
+      "country_code": "KR",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/korea-dimokratia-tis/",
       "has_resident_mission": false,
@@ -2934,6 +2995,7 @@
     },
     {
       "country_name": "Κορέα (Λαϊκή Δημοκρατία)",
+      "country_code": "KP",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/korea-laiki-dimokratia/",
       "has_resident_mission": false,
@@ -2943,6 +3005,7 @@
     },
     {
       "country_name": "Κουβέιτ",
+      "country_code": "KW",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/kratos-toy-koyveit/",
       "has_resident_mission": true,
@@ -3002,6 +3065,7 @@
     },
     {
       "country_name": "Κούβα",
+      "country_code": "CU",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/koyva/",
       "has_resident_mission": true,
@@ -3037,6 +3101,7 @@
     },
     {
       "country_name": "Κράτος του Κατάρ",
+      "country_code": "QA",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/kratos-toy-katar/",
       "has_resident_mission": true,
@@ -3073,6 +3138,7 @@
     },
     {
       "country_name": "Κροατία",
+      "country_code": "HR",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-tis-kroatias/",
       "has_resident_mission": false,
@@ -3082,6 +3148,7 @@
     },
     {
       "country_name": "Κόστα Ρίκα",
+      "country_code": "CR",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-tis-kosta-rika/",
       "has_resident_mission": true,
@@ -3115,6 +3182,7 @@
     },
     {
       "country_name": "Λίβανος",
+      "country_code": "LB",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/livanos/",
       "has_resident_mission": true,
@@ -3176,6 +3244,7 @@
     },
     {
       "country_name": "Λίχτενσταίν",
+      "country_code": "LI",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/prigkipato-toy-lichtenstain/",
       "has_resident_mission": true,
@@ -3210,6 +3279,7 @@
     },
     {
       "country_name": "Λαϊκή Δημοκρατία της Κίνας",
+      "country_code": "CN",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/laiki-dimokratia-tis-kinas/",
       "has_resident_mission": true,
@@ -3268,6 +3338,7 @@
     },
     {
       "country_name": "Λαϊκή Δημοκρατία του Ανατολικού Τιμόρ",
+      "country_code": "TL",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/timor-leste/",
       "has_resident_mission": false,
@@ -3277,6 +3348,7 @@
     },
     {
       "country_name": "Λαϊκή Δημοκρατία του Λάος",
+      "country_code": "LA",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/laiki-dimokratia-toy-laos/",
       "has_resident_mission": false,
@@ -3286,6 +3358,7 @@
     },
     {
       "country_name": "Λεσόθο",
+      "country_code": "LS",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/vasileio-toy-lesoto/",
       "has_resident_mission": false,
@@ -3295,6 +3368,7 @@
     },
     {
       "country_name": "Λετονία",
+      "country_code": "LV",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/letonia/",
       "has_resident_mission": false,
@@ -3304,6 +3378,7 @@
     },
     {
       "country_name": "Λευκορωσία",
+      "country_code": "BY",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/leykorosia/",
       "has_resident_mission": true,
@@ -3337,6 +3412,7 @@
     },
     {
       "country_name": "Λουξεμβούργο",
+      "country_code": "LU",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/loyxemvoyrgo/",
       "has_resident_mission": true,
@@ -3370,6 +3446,7 @@
     },
     {
       "country_name": "Μάλτα",
+      "country_code": "MT",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-tis-maltas/",
       "has_resident_mission": false,
@@ -3379,6 +3456,7 @@
     },
     {
       "country_name": "Μαδαγασκάρη",
+      "country_code": "MG",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-tis-madagaskaris/",
       "has_resident_mission": false,
@@ -3388,6 +3466,7 @@
     },
     {
       "country_name": "Μαλάουι",
+      "country_code": "MW",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-toy-malaoyi/",
       "has_resident_mission": false,
@@ -3397,6 +3476,7 @@
     },
     {
       "country_name": "Μαλί",
+      "country_code": "ML",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-toy-mali/",
       "has_resident_mission": false,
@@ -3406,6 +3486,7 @@
     },
     {
       "country_name": "Μαλαισία",
+      "country_code": "MY",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/malaisia/",
       "has_resident_mission": false,
@@ -3415,6 +3496,7 @@
     },
     {
       "country_name": "Μαλδίβες",
+      "country_code": "MV",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-ton-maldivon/",
       "has_resident_mission": false,
@@ -3424,6 +3506,7 @@
     },
     {
       "country_name": "Μαρόκο",
+      "country_code": "MA",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/maroko/",
       "has_resident_mission": true,
@@ -3480,6 +3563,7 @@
     },
     {
       "country_name": "Μαυροβούνιο",
+      "country_code": "ME",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/mayrovoynio/",
       "has_resident_mission": false,
@@ -3489,6 +3573,7 @@
     },
     {
       "country_name": "Μογγολία",
+      "country_code": "MN",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/moggolia/",
       "has_resident_mission": true,
@@ -3523,6 +3608,7 @@
     },
     {
       "country_name": "Μοζαμβίκη",
+      "country_code": "MZ",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-tis-mozamvikis/",
       "has_resident_mission": true,
@@ -3557,6 +3643,7 @@
     },
     {
       "country_name": "Μολδαβία",
+      "country_code": "MD",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-tis-moldavias/",
       "has_resident_mission": false,
@@ -3566,6 +3653,7 @@
     },
     {
       "country_name": "Μονακό",
+      "country_code": "MC",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/prigkipato-toy-monako/",
       "has_resident_mission": true,
@@ -3599,6 +3687,7 @@
     },
     {
       "country_name": "Μπανγκλαντές",
+      "country_code": "BD",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/mpaklantes/",
       "has_resident_mission": true,
@@ -3633,6 +3722,7 @@
     },
     {
       "country_name": "Μπαρπάντος",
+      "country_code": "BB",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/mparpeintos/",
       "has_resident_mission": false,
@@ -3642,6 +3732,7 @@
     },
     {
       "country_name": "Μπαχάμες",
+      "country_code": "BS",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/koinopoliteia-ton-mpachamon/",
       "has_resident_mission": false,
@@ -3651,6 +3742,7 @@
     },
     {
       "country_name": "Μπαχρέιν",
+      "country_code": "BH",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/vasileio-toy-mpachrein/",
       "has_resident_mission": true,
@@ -3713,6 +3805,7 @@
     },
     {
       "country_name": "Μπελίζ",
+      "country_code": "BZ",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/mpeliz/",
       "has_resident_mission": false,
@@ -3722,6 +3815,7 @@
     },
     {
       "country_name": "Μποτσουάνα",
+      "country_code": "BW",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/mpotsoyana/",
       "has_resident_mission": true,
@@ -3755,6 +3849,7 @@
     },
     {
       "country_name": "Μπουρούντι",
+      "country_code": "BI",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-toy-mpoyroynti/",
       "has_resident_mission": true,
@@ -3788,6 +3883,7 @@
     },
     {
       "country_name": "Μπρουνέι",
+      "country_code": "BN",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/mprounei/",
       "has_resident_mission": false,
@@ -3797,6 +3893,7 @@
     },
     {
       "country_name": "Μυανμάρ",
+      "country_code": "MM",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/myanmar/",
       "has_resident_mission": false,
@@ -3806,6 +3903,7 @@
     },
     {
       "country_name": "Μόνιμη Αντιπροσωπεία της Κυπριακής Δημοκρατίας στο Γραφείο των Ηνωμένων Εθνών στη Γενεύη",
+      "country_code": null,
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/monimi-antiprosopeia-tis-kypriakis-dimokratias-sto-grafeio-ton-inomenon-ethnon-sti-geneyi/",
       "has_resident_mission": true,
@@ -3843,6 +3941,7 @@
     },
     {
       "country_name": "Μόνιμη Αντιπροσωπεία της Κυπριακής Δημοκρατίας στον Οργανισμό για την Ασφάλεια και τη Συνεργασία στην Ευρώπη (OAΣΕ)",
+      "country_code": null,
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/monimi-antiprosopeia-tis-kypriakis-dimokratias-ston-organismo-gia-tin-asfaleia-kai-ti-synergasia-stin-eyropi-oase/",
       "has_resident_mission": true,
@@ -3880,6 +3979,7 @@
     },
     {
       "country_name": "Μόνιμη Αντιπροσωπεία της Κυπριακής Δημοκρατίας στον Οργανισμό Ηνωμένων Εθνών στη Νέα Υόρκη",
+      "country_code": null,
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/monimi-antiprosopeia-tis-kypriakis-dimokratias-ston-organismo-inomenon-ethnon-sti-nea-yorki/",
       "has_resident_mission": true,
@@ -3918,6 +4018,7 @@
     },
     {
       "country_name": "Νέα Ζηλανδία",
+      "country_code": "NZ",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/nea-zilandia-2/",
       "has_resident_mission": false,
@@ -3927,6 +4028,7 @@
     },
     {
       "country_name": "Ναμίμπια",
+      "country_code": "NA",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-tis-namimpia/",
       "has_resident_mission": false,
@@ -3936,6 +4038,7 @@
     },
     {
       "country_name": "Νεπάλ",
+      "country_code": "NP",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/nepal/",
       "has_resident_mission": true,
@@ -3969,6 +4072,7 @@
     },
     {
       "country_name": "Νησιά Σολομώντα",
+      "country_code": "SB",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/nisia-solomonta/",
       "has_resident_mission": false,
@@ -3978,6 +4082,7 @@
     },
     {
       "country_name": "Νιγηρία",
+      "country_code": "NG",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/omospondiaki-dimokratia-tis-nigirias/",
       "has_resident_mission": true,
@@ -4011,6 +4116,7 @@
     },
     {
       "country_name": "Νικαράγουα",
+      "country_code": "NI",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-tis-nikaragoya/",
       "has_resident_mission": true,
@@ -4045,6 +4151,7 @@
     },
     {
       "country_name": "Νορβηγία",
+      "country_code": "NO",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/basileio-tis-norvigias/",
       "has_resident_mission": true,
@@ -4078,6 +4185,7 @@
     },
     {
       "country_name": "Νότιος Αφρική",
+      "country_code": "ZA",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/notios-afriki/",
       "has_resident_mission": true,
@@ -4162,6 +4270,7 @@
     },
     {
       "country_name": "Ολλανδία",
+      "country_code": "NL",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/vasileio-tis-ollandias/",
       "has_resident_mission": true,
@@ -4200,6 +4309,7 @@
     },
     {
       "country_name": "Ομάν",
+      "country_code": "OM",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/soyltanato-toy-oman/",
       "has_resident_mission": true,
@@ -4237,6 +4347,7 @@
     },
     {
       "country_name": "Ομοσπονδιακή Λαϊκή Δημοκρατία της Αιθιοπίας",
+      "country_code": "ET",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/aithiopia/",
       "has_resident_mission": true,
@@ -4271,6 +4382,7 @@
     },
     {
       "country_name": "Ουγγαρία",
+      "country_code": "HU",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/oyggaria/",
       "has_resident_mission": true,
@@ -4307,6 +4419,7 @@
     },
     {
       "country_name": "Ουγκάντα",
+      "country_code": "UG",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-tis-oygkantas/",
       "has_resident_mission": true,
@@ -4340,6 +4453,7 @@
     },
     {
       "country_name": "Ουζμπεκιστάν",
+      "country_code": "UZ",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-toy-oyzpekistan/",
       "has_resident_mission": true,
@@ -4373,6 +4487,7 @@
     },
     {
       "country_name": "Ουκρανία",
+      "country_code": "UA",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/oykrania/",
       "has_resident_mission": true,
@@ -4456,6 +4571,7 @@
     },
     {
       "country_name": "Ουρουγουάη",
+      "country_code": "UY",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/anatoliki-dimokratia-tis-oyroygoyais/",
       "has_resident_mission": true,
@@ -4512,6 +4628,7 @@
     },
     {
       "country_name": "Πακιστάν",
+      "country_code": "PK",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/islamiki-dimoratia-toy-pakistan/",
       "has_resident_mission": true,
@@ -4586,6 +4703,7 @@
     },
     {
       "country_name": "Παλαιστίνη",
+      "country_code": "PS",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/kratos-tis-palaistinis/",
       "has_resident_mission": true,
@@ -4622,6 +4740,7 @@
     },
     {
       "country_name": "Παναμάς",
+      "country_code": "PA",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-toy-panama/",
       "has_resident_mission": true,
@@ -4655,6 +4774,7 @@
     },
     {
       "country_name": "Παπούα Νέα Γουινέα",
+      "country_code": "PG",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/papoya-nea-goyinea/",
       "has_resident_mission": false,
@@ -4664,6 +4784,7 @@
     },
     {
       "country_name": "Παραγουάη",
+      "country_code": "PY",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-tis-paragoyais/",
       "has_resident_mission": false,
@@ -4673,6 +4794,7 @@
     },
     {
       "country_name": "Περού",
+      "country_code": "PE",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/peroy/",
       "has_resident_mission": true,
@@ -4706,6 +4828,7 @@
     },
     {
       "country_name": "Πολωνία",
+      "country_code": "PL",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-tis-polonias/",
       "has_resident_mission": true,
@@ -4805,6 +4928,7 @@
     },
     {
       "country_name": "Πορτογαλία",
+      "country_code": "PT",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-tis-portogalias/",
       "has_resident_mission": true,
@@ -4906,6 +5030,7 @@
     },
     {
       "country_name": "Πράσινο Ακρωτήρι",
+      "country_code": "CV",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/prasino-akrotiri/",
       "has_resident_mission": false,
@@ -4915,6 +5040,7 @@
     },
     {
       "country_name": "Πρεσβεία της Κυπριακής Δημοκρατίας στην Αγία Έδρα",
+      "country_code": "VA",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/agia-edra/",
       "has_resident_mission": true,
@@ -4949,6 +5075,7 @@
     },
     {
       "country_name": "Πριγκιπάτο της Ανδόρα",
+      "country_code": "AD",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/prigkipato-tis-andora/",
       "has_resident_mission": false,
@@ -4958,6 +5085,7 @@
     },
     {
       "country_name": "Ρουάντα",
+      "country_code": "RW",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/royanta/",
       "has_resident_mission": false,
@@ -4967,6 +5095,7 @@
     },
     {
       "country_name": "Ρουμανία",
+      "country_code": "RO",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/roymania/",
       "has_resident_mission": true,
@@ -5004,6 +5133,7 @@
     },
     {
       "country_name": "Ρωσία",
+      "country_code": "RU",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/rosiki-omospondia/",
       "has_resident_mission": true,
@@ -5121,6 +5251,7 @@
     },
     {
       "country_name": "Σαμόα",
+      "country_code": "WS",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/samoa/",
       "has_resident_mission": false,
@@ -5130,6 +5261,7 @@
     },
     {
       "country_name": "Σαουδική Αραβία",
+      "country_code": "SA",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/basileio-tis-saoydikis-aravias/",
       "has_resident_mission": true,
@@ -5193,6 +5325,7 @@
     },
     {
       "country_name": "Σερβία",
+      "country_code": "RS",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-tis-servias/",
       "has_resident_mission": true,
@@ -5230,6 +5363,7 @@
     },
     {
       "country_name": "Σεϋχέλλες",
+      "country_code": "SC",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/seychelles/",
       "has_resident_mission": false,
@@ -5239,6 +5373,7 @@
     },
     {
       "country_name": "Σιγκαπούρη",
+      "country_code": "SG",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-tis-sigkapoyris/",
       "has_resident_mission": true,
@@ -5273,6 +5408,7 @@
     },
     {
       "country_name": "Σλοβακία",
+      "country_code": "SK",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/slovakia/",
       "has_resident_mission": true,
@@ -5332,6 +5468,7 @@
     },
     {
       "country_name": "Σλοβενία",
+      "country_code": "SI",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-tis-slovenias/",
       "has_resident_mission": false,
@@ -5341,6 +5478,7 @@
     },
     {
       "country_name": "Σουδάν",
+      "country_code": "SD",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/soydan/",
       "has_resident_mission": true,
@@ -5375,6 +5513,7 @@
     },
     {
       "country_name": "Σουηδία",
+      "country_code": "SE",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/vasileio-tis-soyidias/",
       "has_resident_mission": true,
@@ -5413,6 +5552,7 @@
     },
     {
       "country_name": "Σουρινάμ",
+      "country_code": "SR",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-toy-soyrinam/",
       "has_resident_mission": false,
@@ -5422,6 +5562,7 @@
     },
     {
       "country_name": "Σρι Λάνκα",
+      "country_code": "LK",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/sri-lanka/",
       "has_resident_mission": true,
@@ -5456,6 +5597,7 @@
     },
     {
       "country_name": "Συμβούλιο της Ευρώπης",
+      "country_code": null,
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/monimi-antiprosopeia-tis-kypriakis-dimokratias-sto-symvoylio-tis-eyropis/",
       "has_resident_mission": true,
@@ -5492,6 +5634,7 @@
     },
     {
       "country_name": "Συρία",
+      "country_code": "SY",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/syria/",
       "has_resident_mission": true,
@@ -5525,6 +5668,7 @@
     },
     {
       "country_name": "Τανζανία",
+      "country_code": "TZ",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/tanzania/",
       "has_resident_mission": true,
@@ -5558,6 +5702,7 @@
     },
     {
       "country_name": "Τατζικιστάν",
+      "country_code": "TJ",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-toy-tatzikistan/",
       "has_resident_mission": false,
@@ -5567,6 +5712,7 @@
     },
     {
       "country_name": "Ταϋλάνδη",
+      "country_code": "TH",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/thailandi/",
       "has_resident_mission": true,
@@ -5601,6 +5747,7 @@
     },
     {
       "country_name": "Τουρκμενιστάν",
+      "country_code": "TM",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/toyrkmenistan/",
       "has_resident_mission": false,
@@ -5610,6 +5757,7 @@
     },
     {
       "country_name": "Τρίνινταντ και Τομπάγκο",
+      "country_code": "TT",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/trinintant-kai-tompagko/",
       "has_resident_mission": false,
@@ -5619,6 +5767,7 @@
     },
     {
       "country_name": "Τσεχία",
+      "country_code": "CZ",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/tsechia/",
       "has_resident_mission": true,
@@ -5656,6 +5805,7 @@
     },
     {
       "country_name": "Τυνησία",
+      "country_code": "TN",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-tis-tynisias/",
       "has_resident_mission": false,
@@ -5665,6 +5815,7 @@
     },
     {
       "country_name": "Τόγκα",
+      "country_code": "TO",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/vasileio-tis-togka/",
       "has_resident_mission": false,
@@ -5674,6 +5825,7 @@
     },
     {
       "country_name": "Υεμένη",
+      "country_code": "YE",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-tis-yemenis/",
       "has_resident_mission": false,
@@ -5683,6 +5835,7 @@
     },
     {
       "country_name": "Φίτζι",
+      "country_code": "FJ",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-ton-fitzi/",
       "has_resident_mission": false,
@@ -5692,6 +5845,7 @@
     },
     {
       "country_name": "Φιλιππίνες",
+      "country_code": "PH",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/filippines/",
       "has_resident_mission": true,
@@ -5725,6 +5879,7 @@
     },
     {
       "country_name": "Φινλανδία",
+      "country_code": "FI",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/dimokratia-tis-finlandias/",
       "has_resident_mission": true,
@@ -5787,6 +5942,7 @@
     },
     {
       "country_name": "Χιλή",
+      "country_code": "CL",
       "language": "el",
       "source_url": "https://www.gov.cy/mfa/chili/",
       "has_resident_mission": false,
